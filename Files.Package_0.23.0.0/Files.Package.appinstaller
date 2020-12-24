@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://files-community.github.io/package.github.io/Files.Package.appinstaller"
+	Uri="https://files-community.github.io/package.github.io/Files.Package_0.23.0.0/Files.Package.appinstaller"
 	Version="0.23.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="49306atecsolution.FilesUWP"
